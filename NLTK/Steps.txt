@@ -1,2 +1,0 @@
-Draw a Rectangle on Front Plane
-Extrude Rectangle
