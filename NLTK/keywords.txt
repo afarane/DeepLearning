@@ -1,0 +1,99 @@
+exit
+Rectangle 
+half 
+Sketch
+Feature
+View
+xDesign
+Minibar
+xDesign	Minibar
+Verify	EditSketch
+center arc
+OKSketch
+CancelSketch
+ClickCreateEditSketch
+SelectPlane yx xy yz
+CreateGesture
+CreateLine
+CreateRectangle
+CreateCenterRectangle
+CreateEllipse
+CreateThreePointArc
+CreateCenterArc
+CreateTangentArc
+CreateCenterCircle
+CreateThreePointCircle
+CreateCenterlineSlot
+CreatePoint
+AddDimension
+EditDimension
+AddRadialDimension
+CreateFillet
+SplitEntity
+Trim
+Extend
+Offset
+Mirror
+Convert Entities
+ApplyCoincidentConstraint
+ApplyConstruction
+ApplyEqualConstraint
+ApplySymmetricConstraint
+ApplyParallelConstraint
+SelectReflectionLine	XY
+SelectEntities	YZ
+Ok	ZX
+Plane	DragTitlebarToTopLeft	DragTitlebarToTopLeft
+Axis	SelectProfiles	SelectProfiles
+Coordinate System	Direction1_Distance	Direction1_Distance
+Extrude	Ok	Ok
+ExtrudeCut		Direction1_EndType
+Revolve 		
+RevolveCut		
+Sweep		
+SweepCut		
+Loft		
+Loft Cut		
+Fillet		
+Chamfer		
+Hole		
+Draft		
+Thicken		
+Shell		
+Mirror		
+Linear Pattern		
+Circular Pattern		
+Split		
+Combine		
+Move Face		
+Move Body		
+Delete Face		
+Delete Body		
+Scale		
+ConverttoDirect-Edit		
+Reframe	Front View
+View Selector	Back View
+NormalTo	Right View
+Pan	Left View
+Rotate	Top View
+Zoom In or Out	Bottom View
+ChangeView	Isometric View
+Perspective	
+Enable Outline Mode	
+ShadingwithEdges	
+ShadingwithEdges without Smooth Edges	
+ShadingwithEdgesandHidden Edges	
+Shading	
+Wireframe	
+Pure White	
+Blue Design	
+Dark Review	
+White Review	
+Basic	
+Dark Mirror	
+Toggle shadows	
+Toggle grid	
+Hide All	
+Show All	
+Opacity Manager	
+Touch Mode	
